@@ -1,5 +1,6 @@
 # Send-email-using-python
-use python to send e-mail
+
+# Dont forget to hit the star if the code was helpfull for you, it will also encourage me to make more code open-source. chears. 
 
 you need to allow access for unsecured app in your Google settings.
 
