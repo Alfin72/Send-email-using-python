@@ -1,3 +1,4 @@
+#before starting make sure you have enabled access for unsecured apps in your google settings for the sender mail.
 import smtplib, ssl
 
 port = 465  # For SSL
