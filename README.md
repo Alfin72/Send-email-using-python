@@ -1,6 +1,6 @@
 # Send-email-using-python
 
-# Dont forget to hit the star if the code was helpfull for you, it will also encourage me to make more code open-source. chears. 
+## Dont forget to hit the star if the code was helpfull for you, it will also encourage me to make more code open-source. cheers. 
 
 you need to allow access for unsecured app in your Google settings.
 
