@@ -5,7 +5,7 @@ port = 465  # For SSL
 smtp_server = "smtp.gmail.com"
 sender_email = "sendermail@gmail.com"  # Enter your address
 receiver_email = "recivermail@gmail.com"  # Enter receiver address
-password = '#######'# pdo not store password directly
+password = '#######'# do not store password directly
 message = """\
 Subject: Hi there
 
