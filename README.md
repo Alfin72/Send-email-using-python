@@ -3,7 +3,7 @@ use python to send e-mail
 
 you need to allow access for unsecured app in your Google settings.
 
-###follow the steps below to do so. I would strongly advice having a seperate account for this and not use your original account
+### follow the steps below to do so. I would strongly advice having a seperate account for this and not use your original account
 
 Go to your (Google Account).
 On the left navigation panel, click Security.
